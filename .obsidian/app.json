@@ -1,1 +1,4 @@
-{}
+{
+  "attachmentFolderPath": "Attachments",
+  "mobilePullAction": "obsidian-git:push2"
+}
